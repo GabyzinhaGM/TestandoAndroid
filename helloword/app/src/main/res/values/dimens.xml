@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_200">200dp</dimen>
+    <dimen name="sp30">30sp</dimen>
+    <dimen name="autura_100">100dp</dimen>
+</resources>

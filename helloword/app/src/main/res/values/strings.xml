@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hello word</string>
+    <<string name="nosso_nome">Gabriela</string>
+    <string name="Nosso_nome">Hello World!</string>
+</resources>
